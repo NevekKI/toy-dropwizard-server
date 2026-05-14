@@ -1,4 +1,4 @@
-name: continuous integration example
+name: continuous integration example2
 on:
 push:
 branches:
